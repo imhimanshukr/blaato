@@ -1,0 +1,45 @@
+body{
+    font-family: 'nunitoregular' !important;
+    margin: 0 !important;
+}
+.css-1oqqzyl-MuiContainer-root {
+    max-width: 1294px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+a:-webkit-any-link {
+    text-decoration: none !important;
+}
+:focus:not(:focus-visible) {
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+:focus-visible {
+    outline: none !important;
+}
+/* Font family */
+@font-face {
+    font-family: 'nunitoregular';
+    src: url(./fonts/nunito-regular-webfont.ttf);
+}
+@font-face {
+    font-family: 'nunitolight';
+    src: url(./fonts/nunito-light-webfont.ttf);
+}
+@font-face {
+    font-family: 'nunitobold';
+    src: url(./fonts/nunito-bold-webfont.ttf);
+}
+@font-face {
+    font-family: 'nunitosemibold';
+    src: url(./fonts/nunito-semibold-webfont.ttf);
+}
+@font-face {
+    font-family: 'nunitoextrabold';
+    src: url(./fonts/nunito-extrabold-webfont.ttf);
+}
+@font-face {
+    font-family: 'proxima_nova_rgbold';
+    src: url(./fonts/proximanova-bold-webfont.ttf);
+}
